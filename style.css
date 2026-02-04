@@ -109,3 +109,13 @@ button.blush {
   font-weight: 600;
   margin-top: 10px;
 }
+button.blush {
+  background: #ffd6e0;
+  color: #b0004d;
+  font-weight: 600;
+}
+
+button.blush:active {
+  transform: scale(0.96);
+}
+
